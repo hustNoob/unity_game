@@ -1,0 +1,38 @@
+# Unity generated
+[Pp]ackages
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# VS/MD solution and project files
+.vs/
+/*.sln
+/*.csproj
+/*.unityproj
+/*.suo
+/*.userprefs
+/*.pidb
+/*.booproj
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+/builds/
+
+# Playmode test results
+/[Tt]est[Rr]esults/
+
+# macOS
+.DS_Store
+
+# Rider
+.idea/
+*.csproj.DotSettings.user
